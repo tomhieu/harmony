@@ -1,4 +1,4 @@
-FROM java:8u102
+FROM openjdk:8u212-b04-jdk-stretch
 
 MAINTAINER  Sharetribe Ltd. "http://github.com/sharetribe"
 ENV REFRESHED_AT 2016-10-28
